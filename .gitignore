@@ -1,3 +1,4 @@
-dev/src/
-dev/test/
-dev/.gitmodules
+/dev/src/*
+/dev/test/*
+/dev/.gitmodules
+/dev/run-tests.sh
